@@ -1,0 +1,1 @@
+export { WorldCanvas as CanvasContainer } from './WorldCanvas';
